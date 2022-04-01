@@ -1,0 +1,7 @@
+1. use the say command to print to the console
+
+2.use the add num command to add numbers and use the divide() command to devide numbers
+
+3. use the store() command to store a variable and use the outputstore1() command to output the variable 
+
+4. use the genaratenumber() command to genarate a random number
