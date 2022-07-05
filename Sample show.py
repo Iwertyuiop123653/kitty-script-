@@ -9,3 +9,5 @@ Divide(200, 20)
 genaratenumber()
 
 addfloat(1.0, 2.0)
+
+write(Name.txt, Blah content)
