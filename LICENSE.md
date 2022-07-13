@@ -1,4 +1,4 @@
-#License
+# LICENSE 
 
 #### Copyright 2022 Anahad Khosa
 

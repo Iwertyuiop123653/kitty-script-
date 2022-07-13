@@ -10,9 +10,9 @@ classifiers = [
  
 setup(
   name='Kittyscript',
-  version='2.8.5',
+  version='2.9.3',
   description='Assist mode for python',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='Anahad Khosa',
   author_email='hahacoolguystaco@gmail.com',
@@ -20,5 +20,7 @@ setup(
   classifiers=classifiers,
   keywords='Assist mode', 
   packages=find_packages(),
-  install_requires=[''] 
+  install_requires=[''],
+  long_description_content_type='text/markdown',
+  License_content_type='text/markdown'
 )
