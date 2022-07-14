@@ -1,4 +1,4 @@
-from New_test_lib import *
+from kittyscript import *
 
 addnum(29, 39)
 
@@ -10,4 +10,18 @@ genaratenumber()
 
 addfloat(1.0, 2.0)
 
-write(Name.txt, Blah content)
+CreateFile("file.txt", "hiya")
+
+Appendtofile("name.txt", "hiya")
+
+say(E)
+
+say(Things_That_can_kill)
+
+hashshaw256("Your string here")
+
+checkemail("jhondoe@email.com")
+
+randomstring()
+
+kill()
