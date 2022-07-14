@@ -84,3 +84,13 @@ def randomstring():
 
 def run(name_of_python_file):
     os.system(name_of_python_file)
+
+def wnb(Number1, Number2):
+    if Number1 > Number2:
+        say("Number 1 is bigger")
+    
+    elif Number1 == Number2:
+        say("Number 1 and 2 are the same")
+
+    else:
+        say("Number 1 is smaller than Number 2")
