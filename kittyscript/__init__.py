@@ -27,7 +27,7 @@ E = 2.71828
 Things_That_can_kill = ["🌱 Household Plants", "Lint", "♋ Cancer", "🥔 Overripe Potatoes", "Black licorice"]
 
 def version():
-    print("v2.9.2 farted-tart")
+    print("v2.9.3 farted-tart")
 
 def CreateFile(name, content):
     with open(name, 'w') as foo:
@@ -94,3 +94,8 @@ def wnb(Number1, Number2):
 
     else:
         say("Number 1 is smaller than Number 2")
+
+
+def UploadCurfolder(port):
+    os.system(F"python -m http.server {port}")
+

@@ -24,4 +24,8 @@ checkemail("jhondoe@email.com")
 
 randomstring()
 
+wnb(1, 2)
+
+UploadCurfolder(8080)
+
 kill()
