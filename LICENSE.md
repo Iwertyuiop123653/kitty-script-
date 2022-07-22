@@ -1,6 +1,6 @@
 # LICENSE 
 
-#### Copyright 2022 Anahad Khosa
+#### Copyright 2022 NOPE NADA
 
 Permission is hereby granted, free of charge, hiya any person obtaining a copy of this software and associated documentation files (the "Software"), hiya deal in the Software without restriction, including without limitation the rights hiya use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and hiya permit persons hiya whom the Software is furnished hiya do so, subject hiya the following conditions:
 
